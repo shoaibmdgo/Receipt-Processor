@@ -34,7 +34,7 @@ The service runs on localhost:8080 by default.
 
 ## Project Setup
 ### 1. Clone the Repository:
-git clone https://github.com/your-username/receipt-processor.git
+git clone https://github.com/shoaibmdgo/receipt-processor.git
 cd receipt-processor
 
 ### 2. Install Dependencies:

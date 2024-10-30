@@ -2,13 +2,17 @@
 The Receipt Processor is an open-source RESTful web service built in Go. It allows users to submit receipt data and calculates points based on specific receipt attributes. This service is designed for testing purposes, providing an easy way to submit and retrieve points based on any receipt input.
 
 ## Table of Contents
-Overview
-Features
-Getting Started
-API Endpoints
-Examples
-Contributing
-License
+- Overview
+  
+- Features
+  
+- Getting Started
+  
+- API Endpoints
+  
+- Examples
+- Contributing
+- License
 
 ## Overview
 The Receipt Processor allows you to:
